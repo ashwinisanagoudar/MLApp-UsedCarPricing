@@ -48,25 +48,25 @@ The following encoding techniques were applied to the categorical variables:
 
 ###### Visualizing data correlation using heatmap.
 
-![image](https://github.com/ashwinisanagoudar/MLApp-UsedCarPricing/blob/main/images/heatmap.png)
+![image](images/heatmap.png)
 
 we can see that year and price have positive correlation while odometer and price have negative correlation.
 
 ###### Plotting Manufacturer vs Price Distribution.
 
-![image](https://github.com/ashwinisanagoudar/MLApp-UsedCarPricing/blob/main/images/manufacturer_price.png)
+![image](images/manufacturer_price.png)
 
 ###### Visualizing box plot distribution of Condition vs Price.
 
-![image](https://github.com/ashwinisanagoudar/MLApp-UsedCarPricing/blob/main/images/condition_price.png)
+![image](images/condition_price.png)
 
 ###### Plotting Fuel vs Price Distribution.
 
-![image](https://github.com/ashwinisanagoudar/MLApp-UsedCarPricing/blob/main/images/fuel_price.png)
+![image](images/fuel_price.png)
 
 ###### Plotting Model vs Price Distribution.
 
-![image](https://github.com/ashwinisanagoudar/MLApp-UsedCarPricing/blob/main/images/model_price.png)
+![image](images/model_price.png)
 
 
 ### Modeling :
@@ -92,7 +92,7 @@ Now that we have built some models, we can compare and verify the performance of
 
 As a part of cross validation, each model is evaluated using various metrics such as R2 score, Accuracy in percentage, Mean Squared Error (MSE), Mean Absolute Error (MAE), Root Mean Squared Error (RMSE). We can generate basic report of all models and effectiveness and share with client (car dealer) to fine tune their invetory and pricing.
 
-##### Summary of Regression Model Evaluations :
+##### Summary of Model Evaluations :
 
 Performance of Linear regressor, Ridge regressor and Lasso regressor was average with Accuracy ~46% and yielding high Mean Squared Error.
 
@@ -100,7 +100,7 @@ Polynomial Linear regressor and Linear regressor with Lasso feature selector per
 
 Random forest regressor model performed best out of all models with Accuracy 79.8% and lower MSE of 34868501.26
 
-![image](https://github.com/ashwinisanagoudar/MLApp-UsedCarPricing/blob/main/images/model_summary.png)
+![image](images/model_summary.png)
 
 ###### Performance Analysis of Best Model Random Forest Regressor :
 
