@@ -100,11 +100,11 @@ Polynomial Linear regressor and Linear regressor with Lasso feature selector per
 
 Random forest regressor model performed best out of all models with Accuracy 79.8% and lower MSE of 34868501.26
 
-![image](images/model_summary)
+![image](https://github.com/ashwinisanagoudar/MLApp-UsedCarPricing/blob/main/images/model_summary)
 
 ###### Performance Analysis of Best Model Random Forest Regressor :
 
-![image](images/random_forest_regressor_performance)
+![image](https://github.com/ashwinisanagoudar/MLApp-UsedCarPricing/blob/main/images/random_forest_regressor_performance)
 
 ## Next Steps and Recommendations
 
