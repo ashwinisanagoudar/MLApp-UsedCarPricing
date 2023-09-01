@@ -48,4 +48,22 @@ One-Hot Encoding
 
 Visualizing data correlation using heatmap.
 
-![Alt text](image.png)
+Plotting Manufacturer vs Price Distribution.
+
+![image]
+https://github.com/ashwinisanagoudar/MLApp-UsedCarPricing/blob/main/images/manufacturer_price.png
+
+Visualizing box plot distribution of Condition vs Price.
+
+![image]
+https://github.com/ashwinisanagoudar/MLApp-UsedCarPricing/blob/main/images/condition_price.png
+
+Plotting Fuel vs Price Distribution.
+
+![image]
+https://github.com/ashwinisanagoudar/MLApp-UsedCarPricing/blob/main/images/fuel_price.png
+
+Plotting Model vs Price Distribution.
+
+![image]
+https://github.com/ashwinisanagoudar/MLApp-UsedCarPricing/blob/main/images/model_price.png
